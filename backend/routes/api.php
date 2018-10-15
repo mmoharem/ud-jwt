@@ -16,3 +16,4 @@ Route::group([
     Route::post('sendPassResetLink', 'ResetPassController@sendEmail');
 
 });
+
